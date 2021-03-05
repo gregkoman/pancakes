@@ -1,5 +1,6 @@
 eggs
-milk
+buttermilk
 flour 
 butter
 salt
+vanilla
